@@ -1,0 +1,19 @@
+.rising_box{
+    display: flex;
+    align-items: center;
+    background: #255CFF;
+    overflow: hidden;
+    border-radius: 2px;
+}
+.rising_btn{
+    cursor: pointer;
+    width: 70px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.input_box{
+    width: 200px;
+}
